@@ -956,43 +956,31 @@ class MainScene extends Phaser.Scene {
           unit.troopCount = newTroopCount;
           unit.list[1].setText(`${Math.round(unit.troopCount)} troops`);
         }
-        // Exert influence (3x3 area)
-        for (let dy = -1; dy <= 1; dy++) {
-          for (let dx = -1; dx <= 1; dx++) {
-            const ny = gridY + dy;
-            const nx = gridX + dx;
-            if (
-              ny >= 0 &&
-              ny < this.gridHeight &&
-              nx >= 0 &&
-              nx < this.gridWidth
-            ) {
-              // Corrected: Complete the ternary operator for distanceFactor
-              const distanceFactor =
-                dx === 0 && dy === 0
-                  ? 1 // Center cell [cite: 151, 152]
-                  : Math.abs(dx) + Math.abs(dy) === 1
-                  ? 0.5
-                  : 0.25; // Adjacent or diagonal [cite: 151, 152]
+     // Exert influence (3x3 area)
+for (let dy = -1; dy <= 1; dy++) {
+    for (let dx = -1; dx <= 1; dx++) {
+        const ny = gridY + dy;
+        const nx = gridX + dx;
+        if (ny >= 0 && ny < this.gridHeight && nx >= 0 && nx < this.gridWidth) {
+            const distanceFactor = (dx === 0 && dy === 0) ? 1 : 
+                                 (Math.abs(dx) + Math.abs(dy) === 1) ? 0.5 : 0.25;
 
-              const influence =
-                unit.troopCount * 0.01 * supplyEffectiveness * distanceFactor;
-              const currentControl = this.territoryControl[ny][nx];
-              const currentOwner = this.territoryGrid[ny][nx]; // Get current owner of the cell
+            const influence = unit.troopCount * 0.01 * supplyEffectiveness * distanceFactor;
+            const currentControl = this.territoryControl[ny][nx];
+            const currentOwner = this.territoryGrid[ny][nx]; // Get current owner of the cell
 
-              // Apply influence based on unit's country
-              if (currentOwner === unit.country) {
+            // Apply influence based on unit's country
+            if (currentOwner === unit.country) {
                 // If unit is on its own territory, increase control towards 100
                 newControl[ny][nx] += influence;
-              } else {
+            } else {
                 // If unit is on enemy/neutral territory, increase control towards unit's country
                 // This is a simplified model, might need to consider existing control's country
                 newControl[ny][nx] += influence; // Simply add influence, it will be capped later
-              }
             }
-          }
         }
-      }
+    }
+}
     });
 
     // Decay and Cap control values
