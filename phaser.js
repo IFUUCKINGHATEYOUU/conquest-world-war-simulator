@@ -2102,3 +2102,12 @@ for (let dy = -1; dy <= 1; dy++) {
     }
   }
 }
+const config = {
+  type: Phaser.AUTO,
+  width: 1280,
+  height: 720,
+  scene: MainScene,
+  // ...any other config (physics, etc)
+};
+
+const game = new Phaser.Game(config);
