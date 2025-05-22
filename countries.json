@@ -1,0 +1,1346 @@
+{
+"af": {
+"name": "Afghanistan",
+"population": 38928346,
+"economy": 19800000000,
+"military_size": 200000,
+"color": "#ddc03e"
+},
+"al": {
+"name": "Albania",
+"population": 2877797,
+"economy": 15000000000,
+"military_size": 8000,
+"color": "#e5fce4"
+},
+"dz": {
+"name": "Algeria",
+"population": 43851044,
+"economy": 187000000000,
+"military_size": 500000,
+"color": "#163b6f"
+},
+"ad": {
+"name": "Andorra",
+"population": 77265,
+"economy": 3000000000,
+"military_size": 0,
+"color": "#97f32c"
+},
+"ao": {
+"name": "Angola",
+"population": 32866272,
+"economy": 93000000000,
+"military_size": 150000,
+"color": "#230d46"
+},
+"ag": {
+"name": "Antigua and Barbuda",
+"population": 97928,
+"economy": 1400000000,
+"military_size": 0,
+"color": "#2c9c43"
+},
+"ar": {
+"name": "Argentina",
+"population": 45195777,
+"economy": 450000000000,
+"military_size": 100000,
+"color": "#99b07f"
+},
+"am": {
+"name": "Armenia",
+"population": 2963243,
+"economy": 12000000000,
+"military_size": 50000,
+"color": "#61048b"
+},
+"au": {
+"name": "Australia",
+"population": 25499884,
+"economy": 1394000000000,
+"military_size": 58000,
+"color": "#b248ca"
+},
+"at": {
+"name": "Austria",
+"population": 8917205,
+"economy": 455000000000,
+"military_size": 22000,
+"color": "#59a389"
+},
+"az": {
+"name": "Azerbaijan",
+"population": 10139177,
+"economy": 77500000000,
+"military_size": 66000,
+"color": "#b73cbc"
+},
+"bs": {
+"name": "Bahamas",
+"population": 393248,
+"economy": 12000000000,
+"military_size": 0,
+"color": "#5f7b42"
+},
+"bh": {
+"name": "Bahrain",
+"population": 1701575,
+"economy": 52000000000,
+"military_size": 15000,
+"color": "#45cf4"
+},
+"bd": {
+"name": "Bangladesh",
+"population": 166303498,
+"economy": 305000000000,
+"military_size": 160000,
+"color": "#5543bb"
+},
+"bb": {
+"name": "Barbados",
+"population": 287375,
+"economy": 5000000000,
+"military_size": 0,
+"color": "#c276ac"
+},
+"by": {
+"name": "Belarus",
+"population": 9449323,
+"economy": 64000000000,
+"military_size": 45000,
+"color": "#ad5cef"
+},
+"be": {
+"name": "Belgium",
+"population": 11589623,
+"economy": 529000000000,
+"military_size": 30000,
+"color": "#9398c0"
+},
+"bz": {
+"name": "Belize",
+"population": 397621,
+"economy": 2000000000,
+"military_size": 1000,
+"color": "#5d0773"
+},
+"bj": {
+"name": "Benin",
+"population": 12123200,
+"economy": 16000000000,
+"military_size": 15000,
+"color": "#117883"
+},
+"bt": {
+"name": "Bhutan",
+"population": 771608,
+"economy": 3000000000,
+"military_size": 7000,
+"color": "#933d2"
+},
+"bo": {
+"name": "Bolivia",
+"population": 11673029,
+"economy": 41000000000,
+"military_size": 30000,
+"color": "#82c38f"
+},
+"ba": {
+"name": "Bosnia and Herzegovina",
+"population": 3280819,
+"economy": 20000000000,
+"military_size": 9600,
+"color": "#d1dd5e"
+},
+"bw": {
+"name": "Botswana",
+"population": 2141206,
+"economy": 18500000000,
+"military_size": 10000,
+"color": "#970b2e"
+},
+"br": {
+"name": "Brazil",
+"population": 212559417,
+"economy": 1839000000000,
+"military_size": 334500,
+"color": "#b212eb"
+},
+"bn": {
+"name": "Brunei",
+"population": 433285,
+"economy": 12000000000,
+"military_size": 6000,
+"color": "#4b2ef6"
+},
+"bg": {
+"name": "Bulgaria",
+"population": 6948445,
+"economy": 70000000000,
+"military_size": 30000,
+"color": "#2ae32"
+},
+"bf": {
+"name": "Burkina Faso",
+"population": 20511675,
+"economy": 14000000000,
+"military_size": 10000,
+"color": "#6b0d32"
+},
+"bi": {
+"name": "Burundi",
+"population": 11890784,
+"economy": 3000000000,
+"military_size": 3000,
+"color": "#a8f8c4"
+},
+"cv": {
+"name": "Cabo Verde",
+"population": 549935,
+"economy": 2000000000,
+"military_size": 1000,
+"color": "#aca25a"
+},
+"kh": {
+"name": "Cambodia",
+"population": 16718965,
+"economy": 26500000000,
+"military_size": 150000,
+"color": "#4aa9aa"
+},
+"cm": {
+"name": "Cameroon",
+"population": 22709892,
+"economy": 45000000000,
+"military_size": 30000,
+"color": "#4a88fc"
+},
+"ca": {
+"name": "Canada",
+"population": 37742154,
+"economy": 1840000000000,
+"military_size": 68000,
+"color": "#b74c79"
+},
+"cf": {
+"name": "Central African Republic",
+"population": 5496064,
+"economy": 2000000000,
+"military_size": 7500,
+"color": "#c6ff12"
+},
+"td": {
+"name": "Chad",
+"population": 14497000,
+"economy": 12000000000,
+"military_size": 12000,
+"color": "#4f7950"
+},
+"cl": {
+"name": "Chile",
+"population": 19116201,
+"economy": 350000000000,
+"military_size": 100000,
+"color": "#fc7143"
+},
+"cn": {
+"name": "China",
+"population": 1440000000,
+"economy": 17000000000000,
+"military_size": 2000000,
+"color": "#e58d92"
+},
+"co": {
+"name": "Colombia",
+"population": 50882891,
+"economy": 367000000000,
+"military_size": 500000,
+"color": "#951865"
+},
+"km": {
+"name": "Comoros",
+"population": 806153,
+"economy": 1000000000,
+"military_size": 1500,
+"color": "#934cc6"
+},
+"cg": {
+"name": "Congo",
+"population": 5500000,
+"economy": 20000000000,
+"military_size": 18000,
+"color": "#c0259a"
+},
+"cd": {
+"name": "Congo, Democratic Republic of the",
+"population": 89561403,
+"economy": 50000000000,
+"military_size": 150000,
+"color": "#a73199"
+},
+"ck": {
+"name": "Cook Islands",
+"population": 17000,
+"economy": 200000000,
+"military_size": 0,
+"color": "#4c3fcd"
+},
+"cr": {
+"name": "Costa Rica",
+"population": 5094118,
+"economy": 60000000000,
+"military_size": 0,
+"color": "#ea28ba"
+},
+"hr": {
+"name": "Croatia",
+"population": 4105267,
+"economy": 59000000000,
+"military_size": 16000,
+"color": "#5c69c8"
+},
+"cu": {
+"name": "Cuba",
+"population": 11326616,
+"economy": 100000000000,
+"military_size": 50000,
+"color": "#d2a39f"
+},
+"cy": {
+"name": "Cyprus",
+"population": 1207359,
+"economy": 24000000000,
+"military_size": 15000,
+"color": "#cea2a9"
+},
+"cz": {
+"name": "Czech Republic",
+"population": 10708981,
+"economy": 250000000000,
+"military_size": 25000,
+"color": "#faae35"
+},
+"dk": {
+"name": "Denmark",
+"population": 5818553,
+"economy": 355000000000,
+"military_size": 15000,
+"color": "#bd5136"
+},
+"dj": {
+"name": "Djibouti",
+"population": 883560,
+"economy": 3100000000,
+"military_size": 2000,
+"color": "#ebc600"
+},
+"dm": {
+"name": "Dominica",
+"population": 71986,
+"economy": 500000000,
+"military_size": 0,
+"color": "#789ab5"
+},
+"do": {
+"name": "Dominican Republic",
+"population": 10847904,
+"economy": 80000000000,
+"military_size": 20000,
+"color": "#f876e2"
+},
+"ec": {
+"name": "Ecuador",
+"population": 17643060,
+"economy": 108000000000,
+"military_size": 45000,
+"color": "#dd50f6"
+},
+"eg": {
+"name": "Egypt",
+"population": 102334155,
+"economy": 394800000000,
+"military_size": 480000,
+"color": "#640a88"
+},
+"sv": {
+"name": "El Salvador",
+"population": 6486201,
+"economy": 29000000000,
+"military_size": 12000,
+"color": "#13f368"
+},
+"eq": {
+"name": "Equatorial Guinea",
+"population": 1402985,
+"economy": 20000000000,
+"military_size": 10000,
+"color": "#5b6220"
+},
+"er": {
+"name": "Eritrea",
+"population": 3546000,
+"economy": 2000000000,
+"military_size": 10000,
+"color": "#44d883"
+},
+"ee": {
+"name": "Estonia",
+"population": 1326535,
+"economy": 40000000000,
+"military_size": 5000,
+"color": "#e04a53"
+},
+"sz": {
+"name": "Eswatini",
+"population": 1160164,
+"economy": 5000000000,
+"military_size": 10000,
+"color": "#3c007d"
+},
+"et": {
+"name": "Ethiopia",
+"population": 114114114,
+"economy": 96200000000,
+"military_size": 150000,
+"color": "#a4e3f5"
+},
+"fj": {
+"name": "Fiji",
+"population": 896445,
+"economy": 5000000000,
+"military_size": 3500,
+"color": "#4e027f"
+},
+"fi": {
+"name": "Finland",
+"population": 5540720,
+"economy": 300000000000,
+"military_size": 20000,
+"color": "#8957ff"
+},
+"fr": {
+"name": "France",
+"population": 67000000,
+"economy": 2900000000000,
+"military_size": 270000,
+"color": "#e60ad7"
+},
+"ga": {
+"name": "Gabon",
+"population": 2225734,
+"economy": 16000000000,
+"military_size": 6000,
+"color": "#5e75c5"
+},
+"gm": {
+"name": "Gambia",
+"population": 2416661,
+"economy": 1700000000,
+"military_size": 1500,
+"color": "#cd5dcb"
+},
+"ge": {
+"name": "Georgia",
+"population": 3989167,
+"economy": 16000000000,
+"military_size": 20000,
+"color": "#57c551"
+},
+"de": {
+"name": "Germany",
+"population": 83783942,
+"economy": 3845000000000,
+"military_size": 184000,
+"color": "#7ab051"
+},
+"gh": {
+"name": "Ghana",
+"population": 31072940,
+"economy": 68000000000,
+"military_size": 15000,
+"color": "#abfaf9"
+},
+"gr": {
+"name": "Greece",
+"population": 10423054,
+"economy": 219000000000,
+"military_size": 120000,
+"color": "#9a7bc9"
+},
+"gt": {
+"name": "Guatemala",
+"population": 17915568,
+"economy": 85000000000,
+"military_size": 22000,
+"color": "#e97256"
+},
+"gn": {
+"name": "Guinea",
+"population": 13132795,
+"economy": 13000000000,
+"military_size": 10000,
+"color": "#2cc87f"
+},
+"gw": {
+"name": "Guinea-Bissau",
+"population": 1968001,
+"economy": 1000000000,
+"military_size": 5000,
+"color": "#fcff36"
+},
+"gy": {
+"name": "Guyana",
+"population": 786552,
+"economy": 2000000000,
+"military_size": 2000,
+"color": "#dfd95e"
+},
+"ht": {
+"name": "Haiti",
+"population": 11402548,
+"economy": 12900000000,
+"military_size": 0,
+"color": "#c73e54"
+},
+"hn": {
+"name": "Honduras",
+"population": 9904607,
+"economy": 24000000000,
+"military_size": 15000,
+"color": "#90a919"
+},
+"hu": {
+"name": "Hungary",
+"population": 9660351,
+"economy": 164000000000,
+"military_size": 25000,
+"color": "#87cf69"
+},
+"is": {
+"name": "Iceland",
+"population": 343599,
+"economy": 25000000000,
+"military_size": 0,
+"color": "#3a89eb"
+},
+"in": {
+"name": "India",
+"population": 1380004385,
+"economy": 2875000000000,
+"military_size": 1450000,
+"color": "#eb6dad"
+},
+"id": {
+"name": "Indonesia",
+"population": 273523615,
+"economy": 1050000000000,
+"military_size": 395500,
+"color": "#1fdadd"
+},
+"ir": {
+"name": "Iran",
+"population": 83992949,
+"economy": 430000000000,
+"military_size": 525000,
+"color": "#bc31a9"
+},
+"iq": {
+"name": "Iraq",
+"population": 40222493,
+"economy": 261000000000,
+"military_size": 1360000,
+"color": "#31ca51"
+},
+"ie": {
+"name": "Ireland",
+"population": 4937786,
+"economy": 450000000000,
+"military_size": 9000,
+"color": "#909b8e"
+},
+"il": {
+"name": "Israel",
+"population": 8655535,
+"economy": 400000000000,
+"military_size": 170000,
+"color": "#cf478f"
+},
+"it": {
+"name": "Italy",
+"population": 60244639,
+"economy": 2000000000000,
+"military_size": 175000,
+"color": "#8414cd"
+},
+"jm": {
+"name": "Jamaica",
+"population": 2961161,
+"economy": 15000000000,
+"military_size": 1500,
+"color": "#fd96d2"
+},
+"jp": {
+"name": "Japan",
+"population": 126476461,
+"economy": 5080000000000,
+"military_size": 247150,
+"color": "#5fe196"
+},
+"kz": {
+"name": "Kazakhstan",
+"population": 18776707,
+"economy": 160000000000,
+"military_size": 120000,
+"color": "#cf7603"
+},
+"ke": {
+"name": "Kenya",
+"population": 53771296,
+"economy": 95000000000,
+"military_size": 25000,
+"color": "#6df81d"
+},
+"ki": {
+"name": "Kiribati",
+"population": 119446,
+"economy": 200000000,
+"military_size": 0,
+"color": "#f72acf"
+},
+"kp": {
+"name": "North Korea",
+"population": 25778914,
+"economy": 19000000000,
+"military_size": 1200000,
+"color": "#5b327c"
+},
+"kr": {
+"name": "South Korea",
+"population": 51269185,
+"economy": 1630000000000,
+"military_size": 555000,
+"color": "#8a8a5c"
+},
+"kw": {
+"name": "Kuwait",
+"population": 4270569,
+"economy": 70000000000,
+"military_size": 15000,
+"color": "#afd5fa"
+},
+"kg": {
+"name": "Kyrgyzstan",
+"population": 6591600,
+"economy": 8400000000,
+"military_size": 20000,
+"color": "#fc16aa"
+},
+"la": {
+"name": "Laos",
+"population": 7275560,
+"economy": 20000000000,
+"military_size": 30000,
+"color": "#c00de8"
+},
+"lv": {
+"name": "Latvia",
+"population": 1886198,
+"economy": 32000000000,
+"military_size": 5000,
+"color": "#72c591"
+},
+"lb": {
+"name": "Lebanon",
+"population": 6825445,
+"economy": 52000000000,
+"military_size": 80000,
+"color": "#a5d655"
+},
+"ls": {
+"name": "Lesotho",
+"population": 2142249,
+"economy": 3000000000,
+"military_size": 1000,
+"color": "#ce0889"
+},
+"lr": {
+"name": "Liberia",
+"population": 5057681,
+"economy": 3600000000,
+"military_size": 1500,
+"color": "#b27705"
+},
+"ly": {
+"name": "Libya",
+"population": 6871292,
+"economy": 36000000000,
+"military_size": 250000,
+"color": "#916db8"
+},
+"li": {
+"name": "Liechtenstein",
+"population": 38128,
+"economy": 6000000000,
+"military_size": 0,
+"color": "#84dbc2"
+},
+"lt": {
+"name": "Lithuania",
+"population": 2722289,
+"economy": 54000000000,
+"military_size": 16000,
+"color": "#2f2e0c"
+},
+"lu": {
+"name": "Luxembourg",
+"population": 634814,
+"economy": 74000000000,
+"military_size": 0,
+"color": "#a4e942"
+},
+"mg": {
+"name": "Madagascar",
+"population": 27691018,
+"economy": 14000000000,
+"military_size": 20000,
+"color": "#225049"
+},
+"mw": {
+"name": "Malawi",
+"population": 19485020,
+"economy": 8000000000,
+"military_size": 9000,
+"color": "#a9b4d3"
+},
+"my": {
+"name": "Malaysia",
+"population": 32365999,
+"economy": 350000000000,
+"military_size": 110000,
+"color": "#715aba"
+},
+"mv": {
+"name": "Maldives",
+"population": 540000,
+"economy": 4000000000,
+"military_size": 2000,
+"color": "#c21cc"
+},
+"ml": {
+"name": "Mali",
+"population": 20250833,
+"economy": 15000000000,
+"military_size": 20000,
+"color": "#6815e7"
+},
+"mt": {
+"name": "Malta",
+"population": 514999,
+"economy": 15000000000,
+"military_size": 1500,
+"color": "#f44be"
+},
+"mh": {
+"name": "Marshall Islands",
+"population": 59194,
+"economy": 200000000,
+"military_size": 0,
+"color": "#acdd76"
+},
+"mr": {
+"name": "Mauritania",
+"population": 4319668,
+"economy": 13000000000,
+"military_size": 18000,
+"color": "#e84489"
+},
+"mu": {
+"name": "Mauritius",
+"population": 1271768,
+"economy": 13500000000,
+"military_size": 9000,
+"color": "#aa3650"
+},
+"mx": {
+"name": "Mexico",
+"population": 128932753,
+"economy": 1220000000000,
+"military_size": 200000,
+"color": "#41db24"
+},
+"fm": {
+"name": "Micronesia",
+"population": 113815,
+"economy": 500000000,
+"military_size": 0,
+"color": "#2e84e4"
+},
+"md": {
+"name": "Moldova",
+"population": 2657637,
+"economy": 11000000000,
+"military_size": 4500,
+"color": "#a0b07c"
+},
+"mc": {
+"name": "Monaco",
+"population": 39242,
+"economy": 3000000000,
+"military_size": 0,
+"color": "#cfa1da"
+},
+"mn": {
+"name": "Mongolia",
+"population": 3278290,
+"economy": 18000000000,
+"military_size": 18000,
+"color": "#8be643"
+},
+"me": {
+"name": "Montenegro",
+"population": 622359,
+"economy": 5000000000,
+"military_size": 2000,
+"color": "#2ee8ac"
+},
+"ma": {
+"name": "Morocco",
+"population": 36910560,
+"economy": 124000000000,
+"military_size": 150000,
+"color": "#be41b0"
+},
+"mz": {
+"name": "Mozambique",
+"population": 31255435,
+"economy": 13000000000,
+"military_size": 20000,
+"color": "#b55c57"
+},
+"mm": {
+"name": "Myanmar",
+"population": 54409794,
+"economy": 64000000000,
+"military_size": 400000,
+"color": "#882c90"
+},
+"na": {
+"name": "Namibia",
+"population": 2540905,
+"economy": 12000000000,
+"military_size": 10000,
+"color": "#6ba8c4"
+},
+"np": {
+"name": "Nepal",
+"population": 29609623,
+"economy": 35000000000,
+"military_size": 100000,
+"color": "#ddb491"
+},
+"nl": {
+"name": "Netherlands",
+"population": 17134872,
+"economy": 902000000000,
+"military_size": 40000,
+"color": "#bf964e"
+},
+"nc": {
+"name": "New Caledonia",
+"population": 285498,
+"economy": 7800000000,
+"military_size": 0,
+"color": "#a95dec"
+},
+"nz": {
+"name": "New Zealand",
+"population": 4822233,
+"economy": 206000000000,
+"military_size": 15000,
+"color": "#bb181a"
+},
+"ni": {
+"name": "Nicaragua",
+"population": 6624554,
+"economy": 13000000000,
+"military_size": 18000,
+"color": "#7f9193"
+},
+"ne": {
+"name": "Niger",
+"population": 24206644,
+"economy": 13000000000,
+"military_size": 20000,
+"color": "#ba6eb3"
+},
+"ng": {
+"name": "Nigeria",
+"population": 206139589,
+"economy": 448000000000,
+"military_size": 200000,
+"color": "#4a8bc6"
+},
+"no": {
+"name": "Norway",
+"population": 5421241,
+"economy": 400000000000,
+"military_size": 23000,
+"color": "#f8aeb1"
+},
+"om": {
+"name": "Oman",
+"population": 5106622,
+"economy": 79000000000,
+"military_size": 45000,
+"color": "#ab7519"
+},
+"pk": {
+"name": "Pakistan",
+"population": 225199937,
+"economy": 284000000000,
+"military_size": 654000,
+"color": "#8b8072"
+},
+"pw": {
+"name": "Palau",
+"population": 18094,
+"economy": 300000000,
+"military_size": 0,
+"color": "#62f6b1"
+},
+"pa": {
+"name": "Panama",
+"population": 4314767,
+"economy": 50000000000,
+"military_size": 0,
+"color": "#13d763"
+},
+"pg": {
+"name": "Papua New Guinea",
+"population": 8947027,
+"economy": 29000000000,
+"military_size": 2000,
+"color": "#3b0341"
+},
+"py": {
+"name": "Paraguay",
+"population": 7132538,
+"economy": 43000000000,
+"military_size": 13000,
+"color": "#c019"
+},
+"pe": {
+"name": "Peru",
+"population": 32971854,
+"economy": 240000000000,
+"military_size": 150000,
+"color": "#b3f319"
+},
+"ph": {
+"name": "Philippines",
+"population": 109581078,
+"economy": 366000000000,
+"military_size": 150000,
+"color": "#400891"
+},
+"pl": {
+"name": "Poland",
+"population": 38386000,
+"economy": 655000000000,
+"military_size": 114000,
+"color": "#835bbb"
+},
+"pt": {
+"name": "Portugal",
+"population": 10196709,
+"economy": 240000000000,
+"military_size": 44000,
+"color": "#e9bcf9"
+},
+"qa": {
+"name": "Qatar",
+"population": 2881050,
+"economy": 180000000000,
+"military_size": 12000,
+"color": "#f526ec"
+},
+"re": {
+"name": "Réunion",
+"population": 859959,
+"economy": 6500000000,
+"military_size": 0,
+"color": "#7055ca"
+},
+"ro": {
+"name": "Romania",
+"population": 19237691,
+"economy": 265000000000,
+"military_size": 69000,
+"color": "#794a1a"
+},
+"ru": {
+"name": "Russia",
+"population": 146000000,
+"economy": 1600000000000,
+"military_size": 900000,
+"color": "#9bb477"
+},
+"rw": {
+"name": "Rwanda",
+"population": 12952218,
+"economy": 10000000000,
+"military_size": 30000,
+"color": "#cdd1f4"
+},
+"sg": {
+"name": "Singapore",
+"population": 5850342,
+"economy": 340000000000,
+"military_size": 50000,
+"color": "#72e654"
+},
+"sk": {
+"name": "Slovakia",
+"population": 5456362,
+"economy": 86000000000,
+"military_size": 15000,
+"color": "#1caac3"
+},
+"si": {
+"name": "Slovenia",
+"population": 2078654,
+"economy": 55000000000,
+"military_size": 7500,
+"color": "#d93df7"
+},
+"so": {
+"name": "Somalia",
+"population": 15893222,
+"economy": 12500000000,
+"military_size": 24000,
+"color": "#8fbce9"
+},
+"za": {
+"name": "South Africa",
+"population": 59308690,
+"economy": 351400000000,
+"military_size": 81000,
+"color": "#3c239e"
+},
+"es": {
+"name": "Spain",
+"population": 46754778,
+"economy": 1395000000000,
+"military_size": 125000,
+"color": "#91cb0c"
+},
+"lk": {
+"name": "Sri Lanka",
+"population": 21919000,
+"economy": 95000000000,
+"military_size": 25000,
+"color": "#d7aaf2"
+},
+"sd": {
+"name": "Sudan",
+"population": 43849260,
+"economy": 35000000000,
+"military_size": 100000,
+"color": "#b6f9d2"
+},
+"sr": {
+"name": "Suriname",
+"population": 586634,
+"economy": 6000000000,
+"military_size": 3000,
+"color": "#68bc7b"
+},
+"se": {
+"name": "Sweden",
+"population": 10327589,
+"economy": 556000000000,
+"military_size": 40000,
+"color": "#e03f6e"
+},
+"ch": {
+"name": "Switzerland",
+"population": 8654622,
+"economy": 824000000000,
+"military_size": 15000,
+"color": "#84e8e0"
+},
+"sy": {
+"name": "Syria",
+"population": 17500657,
+"economy": 20000000000,
+"military_size": 300000,
+"color": "#9865c"
+},
+"tw": {
+"name": "Taiwan",
+"population": 23816775,
+"economy": 670000000000,
+"military_size": 150000,
+"color": "#6247d"
+},
+"tj": {
+"name": "Tajikistan",
+"population": 9321017,
+"economy": 8000000000,
+"military_size": 15000,
+"color": "#2f17c0"
+},
+"tz": {
+"name": "Tanzania",
+"population": 59734218,
+"economy": 62000000000,
+"military_size": 20000,
+"color": "#ddc043"
+},
+"th": {
+"name": "Thailand",
+"population": 69799978,
+"economy": 505000000000,
+"military_size": 360000,
+"color": "#c43654"
+},
+"tg": {
+"name": "Togo",
+"population": 8278724,
+"economy": 10000000000,
+"military_size": 8000,
+"color": "#d1cabe"
+},
+"tk": {
+"name": "Tokelau",
+"population": 1461,
+"economy": 600000,
+"military_size": 0,
+"color": "#684c79"
+},
+"to": {
+"name": "Tonga",
+"population": 105697,
+"economy": 500000000,
+"military_size": 0,
+"color": "#7dc6ae"
+},
+"tt": {
+"name": "Trinidad and Tobago",
+"population": 1363377,
+"economy": 24000000000,
+"military_size": 5000,
+"color": "#3e2579"
+},
+"tn": {
+"name": "Tunisia",
+"population": 11818619,
+"economy": 40000000000,
+"military_size": 50000,
+"color": "#e9f4c3"
+},
+"tr": {
+"name": "Turkey",
+"population": 84339067,
+"economy": 720000000000,
+"military_size": 380000,
+"color": "#f16b58"
+},
+"tm": {
+"name": "Turkmenistan",
+"population": 5942064,
+"economy": 39000000000,
+"military_size": 20000,
+"color": "#e34863"
+},
+"tv": {
+"name": "Tuvalu",
+"population": 11700,
+"economy": 300000000,
+"military_size": 0,
+"color": "#779b17"
+},
+"ug": {
+"name": "Uganda",
+"population": 45741007,
+"economy": 36700000000,
+"military_size": 50000,
+"color": "#a23d81"
+},
+"ua": {
+"name": "Ukraine",
+"population": 44134693,
+"economy": 118000000000,
+"military_size": 250000,
+"color": "#548ade"
+},
+"ae": {
+"name": "United Arab Emirates",
+"population": 9890402,
+"economy": 421000000000,
+"military_size": 65000,
+"color": "#f36a68"
+},
+"gb": {
+"name": "United Kingdom",
+"population": 67886011,
+"economy": 2820000000000,
+"military_size": 195000,
+"color": "#f39a77"
+},
+  "us": {
+    "name": "United States",
+    "population": 331000000,
+    "economy": 23000000000000,
+    "military_size": 1400000,
+    "color": "#FF7778"
+  },
+  "uy": {
+    "name": "Uruguay",
+    "population": 3473730,
+    "economy": 60000000000,
+    "military_size": 22000,
+    "color": "#FF8A4C"
+  },
+  "uz": {
+    "name": "Uzbekistan",
+    "population": 33469718,
+    "economy": 70000000000,
+    "military_size": 50000,
+    "color": "#FF5912"
+  },
+  "vu": {
+    "name": "Vanuatu",
+    "population": 308315,
+    "economy": 1000000000,
+    "military_size": 0,
+    "color": "#FF4E2A"
+  },
+  "va": {
+    "name": "Vatican City",
+    "population": 800,
+    "economy": 200000000,
+    "military_size": 0,
+    "color": "#FF6D00"
+  },
+  "ve": {
+    "name": "Venezuela",
+    "population": 28435943,
+    "economy": 107000000000,
+    "military_size": 150000,
+    "color": "#FF8F3D"
+  },
+  "vn": {
+    "name": "Vietnam",
+    "population": 98168829,
+    "economy": 343000000000,
+    "military_size": 482000,
+    "color": "#FF7311"
+  },
+  "ye": {
+    "name": "Yemen",
+    "population": 29825968,
+    "economy": 23000000000,
+    "military_size": 66000,
+    "color": "#FF4500"
+  },
+  "zm": {
+    "name": "Zambia",
+    "population": 18383855,
+    "economy": 21000000000,
+    "military_size": 15000,
+    "color": "#FF0F00"
+  },
+  "zw": {
+    "name": "Zimbabwe",
+    "population": 14862924,
+    "economy": 20000000000,
+    "military_size": 50000,
+    "color": "#FF6522"
+  },
+  "ht": {
+    "name": "Haiti",
+    "population": 11580371,
+    "economy": 19380000000,
+    "military_size": 500,
+    "color": "#FFC47F"
+  },
+  "pa": {
+    "name": "Panama",
+    "population": 4387000,
+    "economy": 66800000000,
+    "military_size": 0,
+    "color": "#FFD8A1"
+  },
+  "cr": {
+    "name": "Costa Rica",
+    "population": 5100000,
+    "economy": 68400000000,
+    "military_size": 0,
+    "color": "#FFC4A6"
+  },
+  "ci": {
+    "name": "Ivory Coast",
+    "population": 26378274,
+    "economy": 70200000000,
+    "military_size": 25500,
+    "color": "#FF9588"
+  },
+  "eh": {
+    "name": "Western Sahara",
+    "population": 652271,
+    "economy": 0,
+    "military_size": 0,
+    "color": "#FF6347"
+  },
+  "rs": {
+    "name": "Serbia",
+    "population": 6963764,
+    "economy": 64300000000,
+    "military_size": 25500,
+    "color": "#FF5525"
+  },
+  "xk": {
+    "name": "Kosovo",
+    "population": 1831000,
+    "economy": 9980000000,
+    "military_size": 5000,
+    "color": "#FF3F00"
+  },
+  "ss": {
+    "name": "South Sudan",
+    "population": 11193725,
+    "economy": 11800000000,
+    "military_size": 185000,
+    "color": "#FF262E"
+  },
+  "sa": {
+    "name": "Saudi Arabia",
+    "population": 34813871,
+    "economy": 700000000000,
+    "military_size": 227000,
+    "color": "#FF35D9"
+  },
+  "gq": {
+    "name": "Equatorial Guinea",
+    "population": 1430000,
+    "economy": 13600000000,
+    "military_size": 1400,
+    "color": "#FF00A0"
+  },
+  "sn": {
+    "name": "Senegal",
+    "population": 16743927,
+    "economy": 27800000000,
+    "military_size": 17000,
+    "color": "#FF3DCA"
+  },
+  "aq": {
+    "name": "Antarctica",
+    "population": 3500,
+    "economy": 0,
+    "military_size": 0,
+    "color": "#ff78d1"
+  }
+}

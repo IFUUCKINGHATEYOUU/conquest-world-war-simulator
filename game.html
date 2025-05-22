@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RTS Game Map</title>
+    <style>
+      /* This container holds the rendered canvas */
+      #gameCanvas {
+        width: 100%;
+        height: 600px;
+      }
+      body {
+        margin: 0;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>RTS Game - World Map</h1>
+    <button id="createTroopButton">Create Troop</button>
+    <button id="buildCityButton">Build City</button>
+    <button id="toggleCities">Hide Cities</button>
+    <div id="gameCanvas"></div>
+
+    <!-- Load Phaser from a CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3/dist/phaser.js"></script>
+    <!-- Load your Phaser application script -->
+    <script src="phaser.js"></script>
+    <script src="https://unpkg.com/vconsole@latest/dist/vconsole.min.js"></script>
+    <script>
+      // VConsole will be exported to `window.VConsole` by default.
+      var vConsole = new window.VConsole();
+    </script>
+  </body>
+</html>

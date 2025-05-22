@@ -1,0 +1,194 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #1a1a1a;
+  color: #ffffff;
+}
+
+.game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+  color: #ffd700;
+}
+
+.subtitle {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+  color: #cccccc;
+}
+.logo {
+  position: absolute;
+  bottom: 65%;
+}
+
+.play-button {
+  padding: 15px 50px;
+  font-size: 1.5em;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+  position: absolute;
+  bottom: 30%;
+  left: 50%;
+  transform: translateX(-50%); /* Optional: to center the button horizontally */
+}
+
+
+.play-button:hover {
+  background: #45a049;
+}
+
+.version {
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: #888888;
+  position: absolute;
+  bottom: 10%;
+}
+.countries-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+#countriesList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.country-option {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 15px;
+  text-align: center;
+  transition: transform 0.2s, background 0.2s;
+}
+
+.country-option:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.country-option h2 {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
+
+.country-option p {
+  margin: 5px 0;
+  font-size: 0.9em;
+}
+
+.country-option {
+  border: 1px solid white;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.country-option:hover {
+  transform: scale(1.05);
+}
+
+.country-option img {
+  width: 50px;
+  height: auto;
+}
+.troop-label {
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 3px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+.capital-star {
+  background: url('star.png') no-repeat center;
+  width: 30px;
+  height: 30px;
+  background-size: contain;
+}
+
+.major-city-square {
+  background: url('square.png') no-repeat center;
+  width: 30px;
+  height: 30px;
+  background-size: contain;
+}
+
+.small-city-circle {
+  background: url('circle.png') no-repeat center;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: red;
+}
+.leaflet-div-icon {
+    background: none !important;
+    border: none !important;
+}
+
+.capital-star-inner, .major-city-square-inner, .small-city-circle-inner {
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+}
+
+.small-city-circle-inner {
+    background: red;
+    border-radius: 50%;
+}
+
+.city-tooltip {
+    font-size: 12px !important;  /* Fixes text size */
+    white-space: nowrap;  /* Prevents wrapping */
+    transform: none !important; /* Stops scaling */
+    background: rgba(255, 255, 255, 0.9);
+    color: black;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+.troop-label {
+    font-size: 12px !important; /* Fixes text size */
+    white-space: nowrap; /* Prevents wrapping */
+    transform: none !important; /* Stops zoom-based scaling */
+    background: rgb(0, 0, 0, 0.9);
+    color: white;
+    padding: 3px;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+}
+#gameCanvas img[src*="syria.png"] {
+  width: 40px !important;
+  height: 27px !important;
+}
+
+
+

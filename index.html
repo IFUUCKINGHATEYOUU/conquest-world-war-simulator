@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link
+      rel="icon"
+      href="https://cdn.glitch.global/7e922f6b-9293-44c2-8a50-e3109491cff6/conquest.ico?v=1746803667960"
+    />
+    <title>Conquest</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="game-container">
+      <img
+        class="logo"
+        src="https://cdn.glitch.global/7e922f6b-9293-44c2-8a50-e3109491cff6/conquest.png?v=1746590251835"
+        alt="conquest"
+        width="200"
+        height="200"
+      /><img />
+      <h1>Conquest: World War Simulator</h1>
+      <html lang="en">
+        <head>
+          <meta charset="UTF-8" />
+          <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0"
+          />
+          <title>Fading Text Animation</title>
+          <style>
+            body {
+              font-family: "Arial", sans-serif;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              margin: 0;
+            }
+
+            #subtitle {
+              font-size: 15px;
+              color: #ffffff;
+              opacity: 0;
+              transition: opacity 1.5s ease-in-out;
+            }
+          </style>
+        </head>
+        <body>
+          <div class="container">
+            <div id="subtitle"></div>
+          </div>
+
+          <script>
+            // Array of messages to display
+            const messages = [
+              "Enjoy my first game!",
+              "PLEASE NOTE: This game may crash while loading! Refresh the page if this happens. Your selected country saves, so don't worry.",
+              "Replit is so fuckass, why not use glitch instead?",
+              "This game was made with Javascript, HTML, CSS, JSON, Phaser, GeoJSON, TopoJSON, and love.",
+              "Inspired by Hearts of Iron 4.",
+              "Developed by rev.",
+              "Also try openfront.io!",
+              "this my first game plz no hat",
+              "Are you supposed to be playing this? Go back to working on your schoolwork you bum.",
+              "Also try territorial.io!",
+            ];
+
+            let currentIndex = 0;
+            const textElement = document.getElementById("subtitle");
+
+            // Function to fade in text
+            function fadeIn() {
+              textElement.style.opacity = 0;
+              textElement.textContent = messages[currentIndex];
+
+              setTimeout(() => {
+                textElement.style.opacity = 1;
+                setTimeout(fadeOut, 2000); // Wait 2 seconds before fading out
+              }, 100);
+            }
+
+            // Function to fade out text
+            function fadeOut() {
+              textElement.style.opacity = 0;
+
+              setTimeout(() => {
+                // Move to next message
+                currentIndex = (currentIndex + 1) % messages.length;
+                setTimeout(fadeIn, 500); // Wait half a second before fading in next message
+              }, 1500);
+            }
+
+            // Start the animation
+            fadeIn();
+          </script>
+        </body>
+      </html>
+      <button id="playButton" class="play-button">Play</button>
+      <div class="version">Development Build v0.1.0</div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

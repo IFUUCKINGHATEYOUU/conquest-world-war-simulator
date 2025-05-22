@@ -1,0 +1,86 @@
+{
+  "fas": {
+    "name": "Federation of African States",
+    "requiredcountries": "ago, bdi, ben, bfa, bwa, caf, civ, cmr, cod, cog, com, cpv, dji, dza, egy, eri, esw, eth, gab, gha, gin, gmb, gnq, ken, lso, lbr, lby, mdg, mwi, mli, mrt, mus, myt, nam, ner, nga, reu, rwa, shn, stp, sen, sey, sle, som, ssd, sdn, swz, tcd, tun, tza, uga, zaf, zmb, zwe",
+    "possiblestarts": "ago, bdi, ben, bfa, bwa, caf, civ, cmr, cod, cog, com, cpv, dji, dza, egy, eri, esw, eth, gab, gha, gin, gmb, gnq, ken, lso, lbr, lby, mdg, mwi, mli, mrt, mus, myt, nam, ner, nga, reu, rwa, shn, stp, sen, sey, sle, som, ssd, sdn, swz, tcd, tun, tza, uga, zaf, zmb, zwe",
+    "color": "#4ba750ff"
+  },
+  "eac": {
+    "name": "East Africa",
+    "requiredcountries": "bdi, cod, ken, rwa, som, ssd, tza, uga",
+    "possiblestarts": "bdi, cod, ken, rwa, som, ssd, tza, uga",
+    "color": "#388fb9ff"
+  },
+  "central_asia": {
+    "name": "Batyldykstan",
+    "requiredcountries": "kaz, tkm, uzb, kgz, tjk",
+    "possiblestarts": "kaz, tkm, uzb, kgz, tjk",
+    "color": "#ffa118ff"
+  },
+  "europe": {
+    "name": "Europe",
+    "requiredcountries": "alb, and, aut, blr, bel, bih, bgr, hrv, cyp, cze, dnk, est, fin, fra, geo, deu, grc, hun, isl, irl, ita, lva, lie, ltu, lux, mkd, mlt, mda, mco, mne, nld, nor, pol, prt, rou, rus, smr, srb, svk, svn, esp, swe, che, ukr, gbr, vat",
+    "possiblestarts": "alb, and, aut, blr, bel, bih, bgr, hrv, cyp, cze, dnk, est, fin, fra, geo, deu, grc, hun, isl, irl, ita, lva, lie, ltu, lux, mkd, mlt, mda, mco, mne, nld, nor, pol, prt, rou, rus, smr, srb, svk, svn, esp, swe, che, ukr, gbr, vat",
+    "color": "#0000c7ff"
+  },
+  "ussr": {
+    "name": "Union of Soviet Socialist Republics",
+    "requiredcountries": "arm, aze, blr, est, geo, kaz, kgz, lva, ltu, mda, rus, tjk, tkm, ukr, uzb",
+    "possiblestarts": "rus",
+    "color": "#ca0000ff"
+  },
+  "arabia": {
+    "name": "Kingdom of Arabia",
+    "requiredcountries": "dza, bhr, com, dji, egy, irq, jor, kwt, lbn, lby, mrt, mar, omn, pse, qat, sau, som, sdn, syr, tun, are, yem",
+    "possiblestarts": "dza, bhr, com, dji, egy, irq, jor, kwt, lbn, lby, mrt, mar, omn, pse, qat, sau, som, sdn, syr, tun, are, yem",
+    "color": "#38c724ff"
+  },
+  "islam": {
+    "name": "United Ummah",
+    "requirecountries": "afg, alb, dza, aze, bhr, bgd, ben, brn, bfa, cmr, tcd, com, dji, egy, gab, gmb, gin, gnb, guy, idn, irn, irq, civ, jor, kaz, kwt, kgz, lbn, lby, mys, mdv, mli, mrt, mar, moz, ner, nga, omn, pak, pse, qat, sau, sen, sle, som, sdn, sur, tjk, tgo, tun, tur, tkm, uga, are, uzb, yem",
+    "possiblestarts": "afg, alb, dza, aze, bhr, bgd, ben, brn, bfa, cmr, tcd, com, dji, egy, gab, gmb, gin, gnb, guy, idn, irn, irq, civ, jor, kaz, kwt, kgz, lbn, lby, mys, mdv, mli, mrt, mar, moz, ner, nga, omn, pak, pse, qat, sau, sen, sle, som, sdn, sur, tjk, tgo, tun, tur, tkm, uga, are, uzb, yem",
+    "color": "#007f00ff"
+  },
+  "asia": {
+    "name": "Asian Federation",
+    "requiredcountries": "afg, arm, aze, bhr, bgd, btn, brn, khm, chn, cyp, geo, ind, idn, irn, irq, isr, jpn, jor, kaz, kwt, kgz, lao, lbn, mys, mdv, mng, mmr, npl, prk, omn, pak, pse, phl, qat, sau, sgp, kor, lka, syr, tjk, twn, tkm, uzb, are, vnm, yem, rus",
+    "possiblestarts": "afg, arm, aze, bhr, bgd, btn, brn, khm, chn, cyp, geo, ind, idn, irn, irq, isr, jpn, jor, kaz, kwt, kgz, lao, lbn, mys, mdv, mng, mmr, npl, prk, omn, pak, pse, phl, qat, sau, sgp, kor, lka, syr, tjk, twn, tkm, uzb, are, vnm, yem",
+    "color": "#ff892cff"
+  },
+  "south_america": {
+    "name": "Confederation of South America",
+    "requiredcountries": "arg, bol, bra, chl, col, ecu, pry, per, sur, ury, ven",
+    "possiblestarts": "arg, bol, bra, chl, col, ecu, pry, per, sur, ury, ven",
+    "color": "#63896eff"
+  },
+  "oceania": {
+    "name": "Union of Oceanic Peoples",
+    "requiredcountries": "aus, fji, kir, mhl, fsm, nrw, nzl, png, slb, ton, tuv, vut",
+    "possiblestarts": "aus, fji, kir, mhl, fsm, nrw, nzl, png, slb, ton, tuv, vut",
+    "color": "#6389e4ff"
+  },
+  "north_america": {
+    "name": "Republic of North America",
+    "requiredcountries": "can, usa, mex, blz, cri, cub, dom, slv, gtm, hnd, hti, nic, pan",
+    "possiblestarts": "can, usa, mex, blz, cri, cub, dom, slv, gtm, hnd, hti, nic, pan",
+    "color": "#5f3dffff"
+  },
+  "gcc": {
+    "name": "Gulf Union",
+    "requiredcountries": "bhr, kwt, omn, qat, sau, are",
+    "possiblestarts": "bhr, kwt, omn, qat, sau, are",
+    "color": "#007f1eff"
+  },
+  "asean": {
+    "name": "Confederation of Southeast Asia",
+    "requiredcountries": "brn, khm, idn, lao, mys, mmr, phl, sgp, tha, vnm",
+    "possiblestarts": "brn, khm, idn, lao, mys, mmr, phl, sgp, tha, vnm",
+    "color": "#ca4b1eff"
+  },
+  "turkic_countries": {
+    "name": "Turkic Federation",
+    "requiredcountries": "aze, kaz, kgz, tur, tkm, uzb",
+    "possiblestarts": "aze, kaz, kgz, tur, tkm, uzb",
+    "color": "#ff892cff"
+  }
+}
